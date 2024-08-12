@@ -17,3 +17,14 @@ If people want the APIs to be ArcOS-Compatible and Aquafall to be compatible wit
 ## I want to contact you.
 
 You can shoot me an email at [AquafallOS@outlook.com](mailto:aquafallos@outlook.com), and I'll do my best to reply.
+
+# The Team
+| Name   | Role                   |
+|--------|------------------------|
+| Logan  | Founder                |
+| Andrew | Designer and Developer |
+
+# Contributors
+| Name       | Contribution           |
+|------------|------------------------|
+| Aquafox88  | Wallpapers             |
