@@ -28,3 +28,4 @@ You can shoot me an email at [AquafallOS@outlook.com](mailto:aquafallos@outlook.
 | Name       | Contribution           |
 |------------|------------------------|
 | Aquafox88  | Wallpapers             |
+| IzKuipers  | Help with code & logo             |
