@@ -4,7 +4,7 @@ Welcome to Aquafall, a web operating system inspired by ArcOS.
   
 ## Why does Aquafall exist?  
   
-Aquafall was created to fill the gap of [ArcOS](https://github.com/IzK-ArcOS), as they recently announced their shutdown.
+Aquafall was created to fill the gap of [ArcOS](https://github.com/IzK-ArcOS), as they recently announced their shutdown. We're still going, even if they're back!
 
 ## So, what is Aquafall?
   
